@@ -1,10 +1,8 @@
 # pyTester
 ## Um batch script que corrige exercícios python.
-<--!ts-->
 * [O que o script faz?](#o-que-o-script-faz?) 
 * [Pré-requisitos](#pré-requisitos) 
 * [Como usar](#rodando-o-script)
-<--!te-->
 ### O que o script faz?
 Um arquivo batch é um arquivo texto contendo linhas com comandos que podem ser executados sequencialmente pelo interpretador de comandos do MS-DOS, Windows ou OS/2.
 O script recebe o nome do programa e um numero de testes, depois percorre os arquivos .IN presentes na pasta os usando como entradas para o código fornecido e guardando os resultados em arquivos .MYOUT.
