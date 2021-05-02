@@ -1,6 +1,6 @@
 # pyTester
 ## Um batch script que corrige exercícios python.
-* [O que o script faz?](#o-que-o-script-faz?) 
+* [O que o script faz?](#o-que-o-script-faz) 
 * [Pré-requisitos](#pré-requisitos) 
 * [Como usar](#rodando-o-script)
 ### O que o script faz?
@@ -16,6 +16,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina Windows as s
 $ git clone https://github.com/Gelmi/pyTester
 # Acesse a pasta do projeto no terminal/cmd
 # Copie o arquivo pyTester.bat para a pasta contendo o seu código e os arquivos .IN e .OUT:
+# A pasta deve ficar assim:
 ```
 ![Sua pasta deve estar assim!](https://github.com/Gelmi/pyTester/blob/main/assets/arquivospre.png)
 ```bash
@@ -23,5 +24,6 @@ $ git clone https://github.com/Gelmi/pyTester
 $ .\pyTester.bat
 # Em seguida responda com o nome do arquivo e quantos arquivos .IN serão testados
 # O programa responderá com a comparação das entradas e saidas do seu código
+# Veja um exemplo:
 ```
 ![Um exemplo!](https://github.com/Gelmi/pyTester/blob/main/assets/cmdteste.png)
